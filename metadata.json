@@ -1,0 +1,6 @@
+{
+  "name": "AeroPulse — Urban Air Quality Assistant",
+  "description": "Real-time urban air quality telemetry, AI pollution guidance, indoor ventilation advisories, smart activity planning, and personalized low-emission routines.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
